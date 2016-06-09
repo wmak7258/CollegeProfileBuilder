@@ -10,13 +10,13 @@
 		E73B2EB31C7E03620030253E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73B2EB21C7E03620030253E /* AppDelegate.swift */; };
 		E73B2EB51C7E03620030253E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73B2EB41C7E03620030253E /* ViewController.swift */; };
 		E73B2EB81C7E03620030253E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E73B2EB61C7E03620030253E /* Main.storyboard */; };
-		E73B2EBB1C7E03620030253E /* CollegeProfileBuilder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E73B2EB91C7E03620030253E /* CollegeProfileBuilder.xcdatamodeld */; };
+		E73B2EBB1C7E03620030253E /* \\\\\\.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E73B2EB91C7E03620030253E /* \\\\\\.xcdatamodeld */; };
 		E73B2EBD1C7E03620030253E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E73B2EBC1C7E03620030253E /* Assets.xcassets */; };
 		E73B2EC01C7E03620030253E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E73B2EBE1C7E03620030253E /* LaunchScreen.storyboard */; };
 		E73B2ECB1C7E03620030253E /* CollegeProfileBuilderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73B2ECA1C7E03620030253E /* CollegeProfileBuilderTests.swift */; };
 		E73B2ED61C7E03620030253E /* CollegeProfileBuilderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73B2ED51C7E03620030253E /* CollegeProfileBuilderUITests.swift */; };
 		E73B2EE41C7E0D470030253E /* College.swift in Sources */ = {isa = PBXBuildFile; fileRef = E73B2EE31C7E0D470030253E /* College.swift */; };
-		E767C8631C99A9A600001EA0 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E767C8621C99A9A600001EA0 /* WebViewController.swift */; };
+		E7B8E0701CC931DE00CABFF1 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B8E06F1CC931DE00CABFF1 /* WebViewController.swift */; };
 		E7F4749C1C7F5F890074069C /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F4749B1C7F5F890074069C /* SecondViewController.swift */; };
 		E7FA37941CAEC64A00D87B7B /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7FA37931CAEC64A00D87B7B /* MapViewController.swift */; };
 /* End PBXBuildFile section */
@@ -43,7 +43,7 @@
 		E73B2EB21C7E03620030253E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E73B2EB41C7E03620030253E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E73B2EB71C7E03620030253E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E73B2EBA1C7E03620030253E /* CollegeProfileBuilder.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CollegeProfileBuilder.xcdatamodel; sourceTree = "<group>"; };
+		E73B2EBA1C7E03620030253E /* \\\\\\.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "\\\\\\\\\\\\.xcdatamodel"; sourceTree = "<group>"; };
 		E73B2EBC1C7E03620030253E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E73B2EBF1C7E03620030253E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E73B2EC11C7E03620030253E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		E73B2ED51C7E03620030253E /* CollegeProfileBuilderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollegeProfileBuilderUITests.swift; sourceTree = "<group>"; };
 		E73B2ED71C7E03620030253E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E73B2EE31C7E0D470030253E /* College.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = College.swift; sourceTree = "<group>"; };
-		E767C8621C99A9A600001EA0 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		E7B8E06F1CC931DE00CABFF1 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		E7F4749B1C7F5F890074069C /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		E7FA37931CAEC64A00D87B7B /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,7 +89,7 @@
 			children = (
 				E73B2EB11C7E03620030253E /* CollegeProfileBuilder */,
 				E73B2EC91C7E03620030253E /* CollegeProfileBuilderTests */,
-				E73B2ED41C7E03620030253E /* CollegeProfileBuilderUITests */,
+				E73B2ED41C7E03620030253E /* \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */,
 				E73B2EB01C7E03620030253E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -111,13 +111,13 @@
 				E73B2EE31C7E0D470030253E /* College.swift */,
 				E73B2EB41C7E03620030253E /* ViewController.swift */,
 				E7F4749B1C7F5F890074069C /* SecondViewController.swift */,
-				E767C8621C99A9A600001EA0 /* WebViewController.swift */,
+				E7B8E06F1CC931DE00CABFF1 /* WebViewController.swift */,
 				E7FA37931CAEC64A00D87B7B /* MapViewController.swift */,
 				E73B2EB61C7E03620030253E /* Main.storyboard */,
 				E73B2EBC1C7E03620030253E /* Assets.xcassets */,
 				E73B2EBE1C7E03620030253E /* LaunchScreen.storyboard */,
 				E73B2EC11C7E03620030253E /* Info.plist */,
-				E73B2EB91C7E03620030253E /* CollegeProfileBuilder.xcdatamodeld */,
+				E73B2EB91C7E03620030253E /* \\\\\\.xcdatamodeld */,
 			);
 			path = CollegeProfileBuilder;
 			sourceTree = "<group>";
@@ -131,12 +131,13 @@
 			path = CollegeProfileBuilderTests;
 			sourceTree = "<group>";
 		};
-		E73B2ED41C7E03620030253E /* CollegeProfileBuilderUITests */ = {
+		E73B2ED41C7E03620030253E /* \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */ = {
 			isa = PBXGroup;
 			children = (
 				E73B2ED51C7E03620030253E /* CollegeProfileBuilderUITests.swift */,
 				E73B2ED71C7E03620030253E /* Info.plist */,
 			);
+			name = "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
 			path = CollegeProfileBuilderUITests;
 			sourceTree = "<group>";
 		};
@@ -272,10 +273,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E73B2EB51C7E03620030253E /* ViewController.swift in Sources */,
-				E767C8631C99A9A600001EA0 /* WebViewController.swift in Sources */,
-				E73B2EBB1C7E03620030253E /* CollegeProfileBuilder.xcdatamodeld in Sources */,
+				E73B2EBB1C7E03620030253E /* \\\\\\.xcdatamodeld in Sources */,
 				E73B2EB31C7E03620030253E /* AppDelegate.swift in Sources */,
 				E7F4749C1C7F5F890074069C /* SecondViewController.swift in Sources */,
+				E7B8E0701CC931DE00CABFF1 /* WebViewController.swift in Sources */,
 				E73B2EE41C7E0D470030253E /* College.swift in Sources */,
 				E7FA37941CAEC64A00D87B7B /* MapViewController.swift in Sources */,
 			);
@@ -527,13 +528,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		E73B2EB91C7E03620030253E /* CollegeProfileBuilder.xcdatamodeld */ = {
+		E73B2EB91C7E03620030253E /* \\\\\\.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				E73B2EBA1C7E03620030253E /* CollegeProfileBuilder.xcdatamodel */,
+				E73B2EBA1C7E03620030253E /* \\\\\\.xcdatamodel */,
 			);
-			currentVersion = E73B2EBA1C7E03620030253E /* CollegeProfileBuilder.xcdatamodel */;
-			path = CollegeProfileBuilder.xcdatamodeld;
+			currentVersion = E73B2EBA1C7E03620030253E /* \\\\\\.xcdatamodel */;
+			path = "\\\\\\\\\\\\.xcdatamodeld";
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
